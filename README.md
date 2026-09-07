@@ -144,15 +144,4 @@ reported-results directory.
   Replication-level performance outputs are retained as CSV files.
 - Parallel execution does not change the seed assigned to any replication.
 
-## Source attribution
 
-The implementation preserves the data-generating and comparison-method
-framework of the authors' earlier
-[SLOPE codebase](https://github.com/LC8736/SLOPE) at commit `7016161` and
-records the redesign used for the present manuscript. Methodological citations
-and full benchmark definitions are given in the manuscript.
-
-## License
-
-No software license is assigned in this archive. The authors should add their
-chosen license before making the GitHub repository public.
