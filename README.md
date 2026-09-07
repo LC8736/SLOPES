@@ -59,5 +59,7 @@ with R 4.6.0 on Windows 11; the full session information is retained in each
 reported-results directory.
 
 
+## Real data
+dizzy_real_data_code.zip contains real data and code to reproduce the results in Real Data Analysis.
 
 
